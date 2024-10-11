@@ -1,3 +1,3 @@
 # SpringbootProject
 
-Learning
+Learning project for SpringBoot
